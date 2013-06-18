@@ -10,6 +10,8 @@ Start up a REPL (if you have leiningen installed just type: "lein repl").
 Open up your favorite graphical editor and set it up so that you can draw lines with the left mouse button. Then
 switch back to the REPL and type: "(demo)". Switch back to your editor and watch what happens ;-)
 
+![The driver can draw images in arbitrary graphical applications](https://raw.github.com/SebastianBauersfeld/mouse-driver/master/mouse-driver.png)
+
 ## License
 
 Copyright © 2013 FIXME
