@@ -4,6 +4,10 @@ This is a little library which uses Java's java.awt.Robot class to drive the mou
 This allows to draw pictures within other applications (such as MS Paint and the like).
 The driver makes use of natural cubic splines in order to smoothen mouse movements.
 
+The idea is that you specify the text and the symbols to draw and the driver then translates
+this into mouse movements. This allows to draw text and figures in external applications
+like e.g. MS Paint etc.
+
 ## Usage
 
 Start up a REPL (if you have leiningen installed just type: "lein repl").
