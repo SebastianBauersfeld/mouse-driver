@@ -15,4 +15,5 @@ Open up your favorite graphical editor and set it up so that you can draw lines 
 switch back to the REPL and type: "(demo)". Switch back to your editor and watch what happens ;-)
 
 Watch the video:
+
 [![ScreenShot](video.png)](http://youtu.be/GUUhAF1MGYg)
